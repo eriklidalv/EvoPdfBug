@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvoPdfBug", "EvoPdfBug\EvoPdfBug.csproj", "{A2BCF9CE-577C-42DE-9AF5-7615E6F71161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BCF9CE-577C-42DE-9AF5-7615E6F71161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BCF9CE-577C-42DE-9AF5-7615E6F71161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BCF9CE-577C-42DE-9AF5-7615E6F71161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BCF9CE-577C-42DE-9AF5-7615E6F71161}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D428654A-F759-4BEA-B6B1-A4439C22ABCA}
+	EndGlobalSection
+EndGlobal
